@@ -51,31 +51,11 @@
     },
     "L1": {
         "Description": "Peformance on adapted Boston Naming Test in subject's native language (Spanish)",
-        "Units": "percent accuracy",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb9498ef",
-                "Label": ""
-            }
-        }
+        "Units": "percent accuracy"
     },
     "Ln": {
         "Description": "Peformance on adapted Boston Naming Test in subject's new language (Basque)",
-        "Units": "percent accuracy",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb9498ef",
-                "Label": ""
-            }
-        }
+        "Units": "percent accuracy"
     },
     "participant_id": {
         "Annotations": {
